@@ -1,4 +1,1 @@
-Hellos
-======
-
-Testing Github using "Hello World" programs in various languages.
+Testing out Github with simple "Hello World" programs.
